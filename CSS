@@ -1,0 +1,44 @@
+/* this is CSS of the Democracy direct name logo */
+.NormalCharacterStyle
+{
+  font-family : Open Sans;
+  font-weight : bold;
+  font-size : 18px;
+  color : #414042;
+  color : rgb(65, 64, 66);
+}
+
+
+/* NAVBAR & PAGINATION */
+.st0
+{
+  background : #F1F2F2;
+  background : rgba(241, 242, 242, 1);
+}
+
+
+/* NAVBAR LINKS */
+.NormalCharacterStyle
+{
+  font-family : Open Sans;
+  font-size : 9px;
+  color : #4D4D4D;
+  color : rgb(77, 77, 77);
+}
+
+
+/* GREEN COLOR IN FLOATING MENU */
+.st0
+{
+  background : #0A7680;
+  background : rgba(10, 118, 128, 1);
+}
+
+
+/* HOVER BACKGROUND COLOR IN FLOATING MENU */
+.st0
+{
+  background : #F2F2F2;
+  background : rgba(242, 242, 242, 1);
+}
+
